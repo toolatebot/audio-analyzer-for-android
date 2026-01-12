@@ -1,0 +1,1 @@
+İşe yarar bir gerçek zamanlı ses spektrumu ve spektogram analizcisi
